@@ -2,6 +2,8 @@
 
 Day 1 focuses on ChatGPT use cases for data analytics that can be conducted inside the ChatGPT web interface - no technical knowledge required!
 
+To get similar results like me, be sure to update your [ChatGPT custom instructions](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/custom_instructions.md)!
+
 # Use Case 1: Problem Statements
 - [ChatGPT Link](https://chat.openai.com/share/a11d7f97-4e58-4299-bba1-f3460e99a116)
 
