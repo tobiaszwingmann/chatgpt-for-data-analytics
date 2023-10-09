@@ -16,6 +16,7 @@ Day 1 focuses on ChatGPT use cases for data analytics that can be conducted insi
 
 # Use Case 5: Spreadsheet Analysis
 - [ChatGPT Link](https://chat.openai.com/share/f6377eca-75ad-44fe-86d6-168282e77202)
+- Bonus: [ChatGPT Link](https://chat.openai.com/share/c6f9a8e1-b177-4e5a-83a0-d1f7c653fa07)
 
 # Use Case 6: Generate Excel Formulas
 - ChatGPT Link
