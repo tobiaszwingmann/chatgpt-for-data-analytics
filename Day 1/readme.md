@@ -22,6 +22,7 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 - [ChatGPT Link](https://chat.openai.com/share/f6377eca-75ad-44fe-86d6-168282e77202)
 - [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Credit%20Risk%20Optimization.xlsx)
 - Bonus: [ChatGPT Link](https://chat.openai.com/share/c6f9a8e1-b177-4e5a-83a0-d1f7c653fa07)
+- Bonus: [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Retail_Data_s%20-%20Data.csv)
 
 # Use Case 6: Generate Excel Formulas
 - [ChatGPT Link](https://chat.openai.com/share/be8aea2d-9729-4bac-945b-98d6b5572777)
