@@ -13,7 +13,7 @@
 - [ChatGPT Link](https://chat.openai.com/share/2092f301-3925-4dbf-9153-f99e322d760a)
 
 # Use Case 5: Spreadsheet Analysis
-- (ChatGPT Link)[https://chat.openai.com/share/f6377eca-75ad-44fe-86d6-168282e77202]
+- [ChatGPT Link](https://chat.openai.com/share/f6377eca-75ad-44fe-86d6-168282e77202)
 
 # Use Case 6: Generate Excel Formulas
 - ChatGPT Link
