@@ -28,4 +28,4 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 - [ChatGPT Link](https://chat.openai.com/share/3236285b-37c5-4b41-87d1-6760dcf1bf89)
 
 # Use Case 8: Write VBA Scripts
-- ChatGPT Link
+- [ChatGPT Link](https://chat.openai.com/share/85e0d622-6ded-494e-9767-9826cb919d6f)
