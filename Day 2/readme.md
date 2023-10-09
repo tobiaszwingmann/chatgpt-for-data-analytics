@@ -1,5 +1,7 @@
 # Day 2
 
+Day 2 emphasizes ChatGPT use cases for data analytics tasks that are executed using the OpenAI APIs - some technical knowledge required!
+
 ## Use Cases 9 - 12: GPT For Google Sheets
 * [Google Sheets](https://docs.google.com/spreadsheets/d/1B_UzFsSeJgrZi04VHmnd7bq4-R55F-gLBRgzUkKaM8o/edit?usp=sharing)
 * [More Examples](https://docs.google.com/spreadsheets/d/1jGXh9ZLuPd7FJkfaH0kTqIIBuHcbbWU5-psiXyF5QZ8/template/preview)
