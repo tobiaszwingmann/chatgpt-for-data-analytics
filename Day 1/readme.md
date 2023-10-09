@@ -24,7 +24,8 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 
 # Use Case 6: Generate Excel Formulas
 - [ChatGPT Link](https://chat.openai.com/share/be8aea2d-9729-4bac-945b-98d6b5572777)
-- Bonus: [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
+- Tool: [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
+- Tip: [Excel Formula Bot](https://formulabot.com)
 
 # Use Case 7: Step-by-Step Instructions
 - [ChatGPT Link](https://chat.openai.com/share/3236285b-37c5-4b41-87d1-6760dcf1bf89)
