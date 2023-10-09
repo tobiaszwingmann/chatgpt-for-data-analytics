@@ -24,7 +24,7 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 - ChatGPT Link
 
 # Use Case 7: Step-by-Step Instructions
-- ChatGPT Link
+- [ChatGPT Link](https://chat.openai.com/share/3236285b-37c5-4b41-87d1-6760dcf1bf89)
 
 # Use Case 8: Write VBA Scripts
 - ChatGPT Link
