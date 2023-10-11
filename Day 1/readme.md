@@ -19,7 +19,7 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 - [ChatGPT Link](https://chat.openai.com/share/2092f301-3925-4dbf-9153-f99e322d760a)
 
 # Use Case 5: Spreadsheet Analysis
-- [ChatGPT Link](https://chat.openai.com/share/f6377eca-75ad-44fe-86d6-168282e77202)
+- [ChatGPT Link](https://chat.openai.com/share/a28d77f1-6b39-4d66-944a-1e7e6c5d83aa)
 - [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Credit%20Risk%20Optimization.xlsx)
 - Bonus: [ChatGPT Link](https://chat.openai.com/share/c6f9a8e1-b177-4e5a-83a0-d1f7c653fa07)
 - Bonus: [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Retail_Data_s%20-%20Data.csv)
