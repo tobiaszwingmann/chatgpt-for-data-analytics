@@ -33,7 +33,9 @@ Knowledge
 Capabilities
 ------------
 [ ] Web Browsing
+
 [ ] DALL-E Image Generation
+
 [ ] Code Interpreter
 
 Actions
