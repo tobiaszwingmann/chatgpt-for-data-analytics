@@ -44,8 +44,8 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 - Tip: [Excel Formula Bot](https://formulabot.com)
 
 # Use Case 7: Step-by-Step Instructions
-- [Chat example](#)
-- [Data](#)
+- [Chat example](https://chat.openai.com/share/3236285b-37c5-4b41-87d1-6760dcf1bf89)
+- [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Managers_sales_report.xlsx)
 
 # Use Case 8: Write VBA Scripts
 - [Chat example](#)
