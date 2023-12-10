@@ -4,6 +4,8 @@ Day 1 focuses on ChatGPT use cases for data analytics that can be conducted insi
 
 To get similar results like me, be sure to update your [ChatGPT custom instructions](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/custom_instructions.md)!
 
+The whole day will cover this case study: [Power Pedal Case Study Description](#)
+
 **BIG WARNING!** None of these use cases will always give 100% accurate results. In fact, for some use cases, a 100% accurate result doesn't even exist. That's why we call these scenarios **Augmented AI Use Cases**. AI helps you, but you have to make the final decision. We'll talk more about this in the course.
 
 # Use Case 1: Problem Statements
