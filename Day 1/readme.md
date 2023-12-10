@@ -48,6 +48,6 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 - [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Managers_sales_report.xlsx)
 
 # Use Case 8: Write VBA Scripts
-- [Chat example](#)
-- [Data](#)
+- [Chat example](https://chat.openai.com/share/85e0d622-6ded-494e-9767-9826cb919d6f)
+- [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Managers_sales_report.xlsx)
 
