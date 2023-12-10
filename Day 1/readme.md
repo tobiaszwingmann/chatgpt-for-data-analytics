@@ -38,8 +38,8 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 - Bonus: [Data Analysis GPT](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)
 
 # Use Case 6: Generate Excel Formulas
-- [Chat example](#)
-- [Data](#)
+- [Chat example](https://chat.openai.com/share/dcaf6395-3d46-4149-9aa4-f7cd02737c87)
+- [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Email-Report.xlsx)
 - Tool: [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
 - Tip: [Excel Formula Bot](https://formulabot.com)
 
