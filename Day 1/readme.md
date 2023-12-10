@@ -32,6 +32,7 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 - [Chat example](#)
 - [Data](#)
 - [EDA GPT](https://chat.openai.com/g/g-tF6UvnShB-data-storytelling-gpt)
+- [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/EDA-gpt.md)
 - Bonus: [Chat example](#)
 - Bonus: [Data](#)
 - Bonus: [Advanced Data Analysis GPT](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)
