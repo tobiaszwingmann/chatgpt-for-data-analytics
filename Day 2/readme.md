@@ -12,5 +12,5 @@ Day 2 emphasizes data analysis use cases that are powered by using the OpenAI AP
 
 ## Use Cases 16 - 20: GPT For SQL & Pyhon
 * [Google Colab](https://colab.research.google.com/drive/1WOK7J6eEOaYKrKMS8UdUFSp97vZjzCqb?usp=sharing)
-* [Download Notebook](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%202/ChatGPT_For_SQL.ipynb)
+* [Download Notebook](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%202/ChatGPT_For_SQL_and_Python.ipynb)
 * [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%202/sample_warehouse.db)
