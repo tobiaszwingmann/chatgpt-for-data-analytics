@@ -2,7 +2,7 @@
 
 Day 2 emphasizes data analysis use cases that are powered by using the [OpenAI APIs](https://platform.openai.com/) - some technical knowledge required!
 
-If you sign up for the OpenAI APIs as a new user, you should get [$5 free credits](https://help.openai.com/en/articles/4936830-what-happens-after-i-use-my-free-tokens-or-the-3-months-is-up-in-the-free-trial).
+If you sign up for the OpenAI APIs as a new user, you should get [$5 free credits](https://help.openai.com/en/articles/4936830-what-happens-after-i-use-my-free-tokens-or-the-3-months-is-up-in-the-free-trial), which is more than enough for this demo.
 
 ## Use Cases 9 - 12: GPT For Google Sheets
 * [Google Sheets](https://docs.google.com/spreadsheets/d/1B_UzFsSeJgrZi04VHmnd7bq4-R55F-gLBRgzUkKaM8o/edit?usp=sharing)
