@@ -67,11 +67,10 @@ OUTPUT:  Spartan style 15%. No explanations. Focus on split type and tree.
 Example: 
 ```
 Level: 1
-Split type:  Segmentation
+Split type: Algebraic
 Split: 
-1.  Dietary requirements
-2. Cost
-3. Nutrition (Satisfy hunger)
+1.  Improve lead conversion measures
+2.  Get higher quality leads in
 ```
 
 START: Ask user for their SMART problem statement.
