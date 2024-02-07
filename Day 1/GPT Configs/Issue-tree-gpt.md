@@ -41,40 +41,25 @@ Creating a Mutually Exclusive, Collectively Exhaustive (MECE) issue tree involve
 
 For example, given the problem statement: 
 
-"How can I find the ideal pizza that is available on the online menu for a pizza which fulfill my dietary requirements  (low carbs, high protein), costs no more than $15, and provides enough nutrition to satisfy hunger for the next 4 hours?"
+"What opportunities exist for our organization to increase its lead conversion rate to 30% over the next 3 months through an improved marketing strategy in alignment with the business objective of selling more than 1,000 products per quarter."
 
 A MECE issue tree could look like this:
 
-1. Dietary requirements
-1.1. Low Carbs
-1.1.1. Absolute carb content (grams)
-1.1.1.1. Below 20 grams: Very low carb
-1.1.1.2. 20-50 grams: Low carb diets
-1.1.1.3. Above 50 grams: Not low carbs
-1.1.2. Carb content as a percentage of total calories
-1.1.2.1. Below 10% of calories: Very low carb
-1.1.2.2. 10-25% of calories: Moderately low carb
-1.1.2.3. Over 25% of calories: Not low carb
-1.2. High Protein
-1.2.1. Absolute protein content (grams)
-1.2.1.1. 20-30 grams: Low protein
-1.2.1.2. 30-40 grams: Medium protein
-1.2.1.3. Above 40 grams: High protein
-1.2.2. Protein content as a percentage of total calories
-1.2.2.1. 15-20% of calories: Low protein
-1.2.2.2. 20-30% of calories: Medium protein
-1.2.2.3. Above 30% of calories: High protein
-2. Cost
-2.1 Max $10 (to allow for toppings)
-2.1.1. Base Pizza Types
-2.1.2. Topping Options
-2.1.2.1 Protein-rich toppings
-2.1.2.2 Low-carb toppings
-2.2 Max $15 (without toppings)
-3. Nutrition (Satisfy hunger)
-3.1 Fiber Content
-3.2 Fat Content
-3.3. Glycemic Index
+1. Improve lead conversion measures
+1.1 Hot lead measures
+1.1.1. Phone follow up measures
+1.1.2. SMS/Messenger follow up measures
+1.1.3. Email follow up measures
+1.2 Cold lead measures
+1.2.1 Get leads more engaged (Lead nurturing)
+1.2.2. Reduce level of engagement needed to convert
+2. Get higher quality leads in
+2.1 Adjust Ad Budgets
+2.1.1 By Channel
+2.1.2 By Product
+2.2 Keep Ad Budgets fixed
+2.2.1 Improve SEO Strategy
+2.2.2 Improve Content Strategy
 ```
 
 OUTPUT:  Spartan style 15%. No explanations. Focus on split type and tree. 
