@@ -17,6 +17,7 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 - [Chat example](https://chat.openai.com/share/a066b502-fca6-474d-80fb-73fb942e9181)
 - [Issue Tree GPT](https://chat.openai.com/g/g-qaKT45vrL-issue-tree-gpt)
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/Issue-tree-gpt.md)
+- Bonus: [Export to Powerpoint](https://chat.openai.com/share/963ee11c-5760-433d-84f0-1f50e7ce4267)
 
 # Use Case 3: Root Cause Analysis
 - [Chat example](https://chat.openai.com/share/2e942b04-f8cf-49d3-9dff-cfe4682b540f)
