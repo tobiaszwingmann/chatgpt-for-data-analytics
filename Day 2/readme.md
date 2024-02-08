@@ -9,6 +9,7 @@ Check the [OpenAI Onboarding Guide](https://github.com/tobiaszwingmann/chatgpt-f
 ## Use Cases 9 - 12: GPT For Google Sheets
 * [Google Sheets](https://docs.google.com/spreadsheets/d/1B_UzFsSeJgrZi04VHmnd7bq4-R55F-gLBRgzUkKaM8o/edit?usp=sharing)
 * [More Examples](https://docs.google.com/spreadsheets/d/1jGXh9ZLuPd7FJkfaH0kTqIIBuHcbbWU5-psiXyF5QZ8/template/preview)
+* [Excel Version (Beta)](https://www.microsoft.com/en-us/garage/profiles/excel-labs/)
 
 ## Use Cases 13 - 15: Getting started with the OpenAI APIs
 * [Google Colab](https://colab.research.google.com/drive/1QCFVpTem-miQhyxhhmVWbhmWo2Ob1PEM?usp=sharing)
