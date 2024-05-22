@@ -29,26 +29,31 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 - [Data Story GPT](https://chat.openai.com/g/g-tF6UvnShB-data-storytelling-gpt)
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/data-storytelling-gpt.md)
 
-# Use Case 5: Spreadsheet Analysis
+# Use Case 5: Exploratory Data Analysis
 - [Chat example](https://chat.openai.com/share/da773a1f-ef61-4b04-ac37-58b42fdba62b)
 - [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Store-Reports.xlsx)
 - [EDA GPT](https://chat.openai.com/g/g-Vq2Ro5JoV-eda-gpt)
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/EDA-gpt.md)
-- Bonus: [Chat example](https://chat.openai.com/share/23c64741-a636-43c6-a7f2-cbbc2008739a)
-- Bonus: [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Ecommerce-Transactions.csv)
-- Bonus: [Data Analysis GPT](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)
 
-# Use Case 6: Generate Excel Formulas
+# Use Case 6: Transactional Data Analysis
+- [Chat example](https://chat.openai.com/share/23c64741-a636-43c6-a7f2-cbbc2008739a)
+- [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Ecommerce-Transactions.csv)
+- [Data Analysis GPT](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)
+
+# Use Case 7: Manipulate Tidy Data
+- [Chat example](https://chatgpt.com/share/21bfe6ef-c9b4-4bef-aa01-65fbeac80f25)
+- [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Store-Reports.xlsx)
+
+# Use Case 8: Generate Excel Formulas
 - [Chat example](https://chat.openai.com/share/dcaf6395-3d46-4149-9aa4-f7cd02737c87)
 - [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Email-Report.xlsx)
 - Tool: [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
 - Tip: [Excel Formula Bot](https://formulabot.com)
 
-# Use Case 7: Step-by-Step Instructions
+# Use Case 9: Step-by-Step Instructions
 - [Chat example](https://chat.openai.com/share/3236285b-37c5-4b41-87d1-6760dcf1bf89)
 - [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Managers_sales_report.xlsx)
 
-# Use Case 8: Write VBA Scripts
+# Use Case 10: Write VBA Scripts
 - [Chat example](https://chat.openai.com/share/85e0d622-6ded-494e-9767-9826cb919d6f)
 - [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Managers_sales_report.xlsx)
-
