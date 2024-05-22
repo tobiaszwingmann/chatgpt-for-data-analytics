@@ -2,11 +2,11 @@
 
 Day 2 emphasizes data analysis use cases that are powered by using the [OpenAI APIs](https://platform.openai.com/) - some technical knowledge required!
 
-If you sign up for the OpenAI APIs as a new user, you should get [$5 free credits](https://help.openai.com/en/articles/4936830-what-happens-after-i-use-my-free-tokens-or-the-3-months-is-up-in-the-free-trial), which is more than enough for this demo.
+If you sign up for the OpenAI APIs as a new user, you need to top up [at least $5]([https://help.openai.com/en/articles/4936830-what-happens-after-i-use-my-free-tokens-or-the-3-months-is-up-in-the-free-trial](https://help.openai.com/en/articles/8264644-what-is-prepaid-billing#)), in order to generate an API Key.
 
 Check the [OpenAI Onboarding Guide](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%202/OpenAI%20Platform%20Onboarding.pdf) if needed.
 
-## Use Cases 9 - 12: GPT For Google Sheets
+## Use Cases 11 - 12: GPT For Google Sheets
 * [Google Sheets](https://docs.google.com/spreadsheets/d/1B_UzFsSeJgrZi04VHmnd7bq4-R55F-gLBRgzUkKaM8o/edit?usp=sharing)
 * [More Examples](https://docs.google.com/spreadsheets/d/1jGXh9ZLuPd7FJkfaH0kTqIIBuHcbbWU5-psiXyF5QZ8/template/preview)
 * [Excel Version (Beta)](https://www.microsoft.com/en-us/garage/profiles/excel-labs/)
