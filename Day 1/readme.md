@@ -25,7 +25,8 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/RCA-gpt.md)
 
 # Use Case 4: Storytelling
-- [Chat example](https://chat.openai.com/share/bfe36a5a-2486-4950-b3df-6df48e638451)
+- [Chat example 1](https://chat.openai.com/share/bfe36a5a-2486-4950-b3df-6df48e638451)
+- [Chat example 2](https://chatgpt.com/share/e/fd614b36-f4fa-4173-8063-57bff84c5308)
 - [Data Story GPT](https://chat.openai.com/g/g-tF6UvnShB-data-storytelling-gpt)
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/data-storytelling-gpt.md)
 
