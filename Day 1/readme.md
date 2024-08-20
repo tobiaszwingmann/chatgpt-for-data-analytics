@@ -19,7 +19,8 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/Issue-tree-gpt.md)
 
 # Use Case 3: Root Cause Analysis
-- [Chat example](https://chat.openai.com/share/2e942b04-f8cf-49d3-9dff-cfe4682b540f)
+- [Chat example 1](https://chat.openai.com/share/2e942b04-f8cf-49d3-9dff-cfe4682b540f)
+- [Chat eample 2](https://chatgpt.com/share/e/7515f552-1639-44ea-97c3-8826f2ab9890)
 - [RCA GPT](https://chat.openai.com/g/g-3fPXHFQOm-rca-gpt)
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/RCA-gpt.md)
 
