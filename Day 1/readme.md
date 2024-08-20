@@ -15,7 +15,8 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/smart-problem-gpt.md)
 
 # Use Case 2: Issue Trees
-- [Chat example](https://chatgpt.com/share/05f963d9-007b-427a-8433-32daedd590ef)
+- [Chat example 1](https://chatgpt.com/share/05f963d9-007b-427a-8433-32daedd590ef)
+- [Chat example 2](https://chatgpt.com/share/e/5568ee1f-e88f-44df-969d-2737a9de31c0)
 - [Issue Tree GPT](https://chat.openai.com/g/g-qaKT45vrL-issue-tree-gpt)
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/Issue-tree-gpt.md)
 
