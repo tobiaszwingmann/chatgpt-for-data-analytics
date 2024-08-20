@@ -43,7 +43,7 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 - [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Ecommerce-Transactions.csv)
 - [Data Analysis GPT](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)
 
-# Use Case 7: Manipulate Tidy Data
+# Use Case 7: Tidy Data Analysis
 - [Chat example](https://chatgpt.com/share/21bfe6ef-c9b4-4bef-aa01-65fbeac80f25)
 - [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Store-Reports.xlsx)
 
