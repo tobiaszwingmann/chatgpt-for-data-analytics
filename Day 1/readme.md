@@ -33,7 +33,8 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/data-storytelling-gpt.md)
 
 # Use Case 5: Exploratory Data Analysis
-- [Chat example](https://chat.openai.com/share/da773a1f-ef61-4b04-ac37-58b42fdba62b)
+- [Chat example 1](https://chat.openai.com/share/da773a1f-ef61-4b04-ac37-58b42fdba62b)
+- [Chat example 2](https://chatgpt.com/share/e/99b8abb2-b8ab-4226-a731-2c24f277b425)
 - [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Store-Reports.xlsx)
 - [EDA GPT](https://chat.openai.com/g/g-Vq2Ro5JoV-eda-gpt)
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/EDA-gpt.md)
