@@ -46,8 +46,10 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 - [Data Analysis GPT](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)
 
 # Use Case 7: Tidy Data Analysis
-- [Chat example](https://chatgpt.com/share/21bfe6ef-c9b4-4bef-aa01-65fbeac80f25)
+- [Chat example 1](https://chatgpt.com/share/21bfe6ef-c9b4-4bef-aa01-65fbeac80f25)
+- [Chat example 2](https://chatgpt.com/share/e/f2f250d5-0f37-40c0-bd45-27cb6f92737b)
 - [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Store-Reports.xlsx)
+- [Data Analysis GPT](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)
 
 # Use Case 8: Generate Excel Formulas
 - [Chat example](https://chat.openai.com/share/dcaf6395-3d46-4149-9aa4-f7cd02737c87)
