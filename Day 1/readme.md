@@ -14,10 +14,9 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/smart-problem-gpt.md)
 
 # Use Case 2: Issue Trees
-- [Chat example](https://chatgpt.com/share/f5a0efc5-56b9-4709-bc65-a13d3cf80bd5)
+- [Chat example](https://chatgpt.com/share/05f963d9-007b-427a-8433-32daedd590ef)
 - [Issue Tree GPT](https://chat.openai.com/g/g-qaKT45vrL-issue-tree-gpt)
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/Issue-tree-gpt.md)
-- Bonus: [Export to Powerpoint](https://chat.openai.com/share/963ee11c-5760-433d-84f0-1f50e7ce4267)
 
 # Use Case 3: Root Cause Analysis
 - [Chat example](https://chat.openai.com/share/2e942b04-f8cf-49d3-9dff-cfe4682b540f)
