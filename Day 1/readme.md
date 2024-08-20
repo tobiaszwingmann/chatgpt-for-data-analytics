@@ -40,7 +40,8 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/EDA-gpt.md)
 
 # Use Case 6: Transactional Data Analysis
-- [Chat example](https://chat.openai.com/share/23c64741-a636-43c6-a7f2-cbbc2008739a)
+- [Chat example 1](https://chatgpt.com/share/69d3031c-70ee-405d-984e-3cfee8ba1320)
+- [Chat example 2](https://chatgpt.com/share/e/92cce9a2-c422-4473-b642-8b9b4db66f88)
 - [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Ecommerce-Transactions.csv)
 - [Data Analysis GPT](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)
 
