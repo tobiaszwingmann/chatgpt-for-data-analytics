@@ -9,7 +9,7 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 **BIG WARNING!** None of these use cases will always give 100% accurate results. In fact, for some use cases, a 100% accurate result doesn't even exist. That's why we call these scenarios **Augmented AI Use Cases**. AI helps you, but you have to make the final decision. We'll talk more about this in the course.
 
 # Use Case 1: Problem Statements
-- [Chat example](https://chatgpt.com/share/70990d57-08ab-46e0-ab99-026010e65a9e)
+- [Chat example](https://chatgpt.com/share/f49d46e2-00b7-4f01-9b5f-c2ae2d306dce)
 - [Smart Problem GPT](https://chat.openai.com/g/g-tHZOlUaYD-smart-problem-gpt)
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/smart-problem-gpt.md)
 
