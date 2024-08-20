@@ -28,7 +28,7 @@ function callOpenAI(prompt) {
   };
 
   const payload = {
-    model: "gpt-4", // Use your desired model
+    model: "gpt-4o", // Use your desired model
     messages: [{"role": "user", "content": prompt}],
     max_tokens: 100 // Adjust as necessary
   };
