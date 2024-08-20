@@ -51,7 +51,7 @@ function callOpenAI(prompt) {
   }
 }
 
-function GPT(cellContent) {
+function ChatGPT(cellContent) {
   return callOpenAI(cellContent);
 }
 ```
