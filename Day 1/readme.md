@@ -14,10 +14,11 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 - [Chat example](https://chatgpt.com/share/f49d46e2-00b7-4f01-9b5f-c2ae2d306dce)
 
 # Use Case 2: Issue Trees
-- [Chat example 1](https://chatgpt.com/share/05f963d9-007b-427a-8433-32daedd590ef)
-- [Chat example 2](https://chatgpt.com/share/e/5568ee1f-e88f-44df-969d-2737a9de31c0)
+- [Chat example with GPT-4o](https://chatgpt.com/share/05f963d9-007b-427a-8433-32daedd590ef)
+- [Chat example with GPT-o1](https://chatgpt.com/share/6735d833-a00c-800b-85de-29a6a389a172)
 - [Issue Tree GPT](https://chat.openai.com/g/g-qaKT45vrL-issue-tree-gpt)
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/Issue-tree-gpt.md)
+- [GPT-o1 Prompt](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/issue-tree-prompt-o1.txt)
 
 # Use Case 3: Root Cause Analysis
 - [Chat example 1](https://chat.openai.com/share/2e942b04-f8cf-49d3-9dff-cfe4682b540f)
