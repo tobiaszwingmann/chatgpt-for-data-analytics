@@ -14,17 +14,17 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 - [Chat example](https://chatgpt.com/share/f49d46e2-00b7-4f01-9b5f-c2ae2d306dce)
 
 # Use Case 2: Issue Trees
-- [Chat example with GPT-4o](https://chatgpt.com/share/05f963d9-007b-427a-8433-32daedd590ef)
-- [Chat example with GPT-o1](https://chatgpt.com/share/6735d833-a00c-800b-85de-29a6a389a172)
 - [Issue Tree GPT](https://chat.openai.com/g/g-qaKT45vrL-issue-tree-gpt)
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/Issue-tree-gpt.md)
+- [Chat example with GPT-4o](https://chatgpt.com/share/05f963d9-007b-427a-8433-32daedd590ef)
 - [GPT-o1 Prompt](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/issue-tree-prompt-o1.txt)
+- [Chat example with GPT-o1](https://chatgpt.com/share/6735d987-9730-800b-a512-63c3b891af65)
 
 # Use Case 3: Root Cause Analysis
-- [Chat example 1](https://chat.openai.com/share/2e942b04-f8cf-49d3-9dff-cfe4682b540f)
-- [Chat example 2](https://chatgpt.com/share/e/7515f552-1639-44ea-97c3-8826f2ab9890)
 - [RCA GPT](https://chat.openai.com/g/g-3fPXHFQOm-rca-gpt)
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/RCA-gpt.md)
+- [Chat example 1](https://chat.openai.com/share/2e942b04-f8cf-49d3-9dff-cfe4682b540f)
+- [Chat example 2](https://chatgpt.com/share/e/7515f552-1639-44ea-97c3-8826f2ab9890)
 
 # Use Case 4: Storytelling
 - [Chat example 1](https://chat.openai.com/share/bfe36a5a-2486-4950-b3df-6df48e638451)
