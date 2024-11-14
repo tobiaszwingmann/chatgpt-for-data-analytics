@@ -23,19 +23,18 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 # Use Case 3: Root Cause Analysis
 - [RCA GPT](https://chat.openai.com/g/g-3fPXHFQOm-rca-gpt)
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/RCA-gpt.md)
-- [Chat example 1](https://chat.openai.com/share/2e942b04-f8cf-49d3-9dff-cfe4682b540f)
+- [Chat example](https://chat.openai.com/share/2e942b04-f8cf-49d3-9dff-cfe4682b540f)
 
 # Use Case 4: Storytelling
 - [Data Story GPT](https://chat.openai.com/g/g-tF6UvnShB-data-storytelling-gpt)
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/data-storytelling-gpt.md)
-- [Chat example 1](https://chat.openai.com/share/bfe36a5a-2486-4950-b3df-6df48e638451)
+- [Chat example](https://chat.openai.com/share/bfe36a5a-2486-4950-b3df-6df48e638451)
 
 # Use Case 5: Exploratory Data Analysis
-- [Chat example 1](https://chat.openai.com/share/da773a1f-ef61-4b04-ac37-58b42fdba62b)
-- [Chat example 2](https://chatgpt.com/share/e/99b8abb2-b8ab-4226-a731-2c24f277b425)
 - [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Store-Reports.xlsx)
 - [EDA GPT](https://chat.openai.com/g/g-Vq2Ro5JoV-eda-gpt)
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/EDA-gpt.md)
+- [Chat example](https://chat.openai.com/share/da773a1f-ef61-4b04-ac37-58b42fdba62b)
 
 # Use Case 6: Transactional Data Analysis
 - [Chat example 1](https://chatgpt.com/share/69d3031c-70ee-405d-984e-3cfee8ba1320)
