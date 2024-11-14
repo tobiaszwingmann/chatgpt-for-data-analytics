@@ -56,7 +56,7 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 
 # Use Case 9: Step-by-Step Instructions
 - [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Managers_sales_report.xlsx)
-- [Chat example](https://chat.openai.com/share/3236285b-37c5-4b41-87d1-6760dcf1bf89)
+- [Chat example](https://chatgpt.com/share/6735ddd7-9910-800b-81e9-2f8799c87904)
 
 # Use Case 10: Write VBA Scripts
 - [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Managers_sales_report.xlsx)
