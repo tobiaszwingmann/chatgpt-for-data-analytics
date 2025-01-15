@@ -30,34 +30,34 @@ To get similar results like me, be sure to update your [ChatGPT custom instructi
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/data-storytelling-gpt.md)
 - [Chat example](https://chat.openai.com/share/bfe36a5a-2486-4950-b3df-6df48e638451)
 
-# Use Case 5: Exploratory Data Analysis
+# Use Case 5a: Exploratory Data Analysis
 - [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Store-Reports.xlsx)
 - [EDA GPT](https://chat.openai.com/g/g-Vq2Ro5JoV-eda-gpt)
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/EDA-gpt.md)
 - [Chat example](https://chat.openai.com/share/da773a1f-ef61-4b04-ac37-58b42fdba62b)
 
-# Use Case 6: Transactional Data Analysis
-- [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Ecommerce-Transactions.csv)
-- [Data Analysis GPT](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)
-- [Chat example 1](https://chatgpt.com/share/69d3031c-70ee-405d-984e-3cfee8ba1320)
-- [Chat example 2](https://chatgpt.com/share/e/92cce9a2-c422-4473-b642-8b9b4db66f88)
-
-# Use Case 7: Tidy Data Analysis
+# Use Case 5b: Tidy Data Analysis
 - [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Store-Reports.xlsx)
 - [Data Analysis GPT](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)
 - [Chat example 1](https://chatgpt.com/share/21bfe6ef-c9b4-4bef-aa01-65fbeac80f25)
 - [Chat example 2](https://chatgpt.com/share/e/f2f250d5-0f37-40c0-bd45-27cb6f92737b)
 
-# Use Case 8: Generate Excel Formulas
+# Use Case 5c: Transactional Data Analysis
+- [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Ecommerce-Transactions.csv)
+- [Data Analysis GPT](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)
+- [Chat example 1](https://chatgpt.com/share/69d3031c-70ee-405d-984e-3cfee8ba1320)
+- [Chat example 2](https://chatgpt.com/share/e/92cce9a2-c422-4473-b642-8b9b4db66f88)
+
+# Use Case 6: Step-by-Step Instructions
+- [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Managers_sales_report.xlsx)
+- [Chat example](https://chatgpt.com/share/6735ddd7-9910-800b-81e9-2f8799c87904)
+
+# Use Case 7: Generate Excel Formulas
 - [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Email-Report.xlsx)
 - [Chat example](https://chat.openai.com/share/dcaf6395-3d46-4149-9aa4-f7cd02737c87)
 - Tool: [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
 - Tip: [Excel Formula Bot](https://formulabot.com)
 
-# Use Case 9: Step-by-Step Instructions
-- [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Managers_sales_report.xlsx)
-- [Chat example](https://chatgpt.com/share/6735ddd7-9910-800b-81e9-2f8799c87904)
-
-# Use Case 10: Write VBA Scripts
+# Use Case 8: Write VBA Scripts
 - [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Managers_sales_report.xlsx)
 - [Chat example](https://chat.openai.com/share/85e0d622-6ded-494e-9767-9826cb919d6f)
