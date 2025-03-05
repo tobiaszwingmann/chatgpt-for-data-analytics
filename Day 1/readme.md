@@ -26,7 +26,7 @@ The whole day will cover this case study: [Power Pedal Case Study Description](h
 # Use Case 4: Storytelling
 - [Data Story GPT](https://chat.openai.com/g/g-tF6UvnShB-data-storytelling-gpt)
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/data-storytelling-gpt.md)
-- [Chat example](https://chat.openai.com/share/bfe36a5a-2486-4950-b3df-6df48e638451)
+- [Chat example](https://chatgpt.com/share/67c86566-120c-800b-91ef-fd0c4d9cde2f)
 
 # Use Case 5a: Exploratory Data Analysis
 - [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Store-Reports.xlsx)
