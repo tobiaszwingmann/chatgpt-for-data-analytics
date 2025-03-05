@@ -37,8 +37,7 @@ The whole day will cover this case study: [Power Pedal Case Study Description](h
 # Use Case 5b: Tidy Data Analysis
 - [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Store-Reports.xlsx)
 - [Data Analysis GPT](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)
-- [Chat example 1](https://chatgpt.com/share/21bfe6ef-c9b4-4bef-aa01-65fbeac80f25)
-- [Chat example 2](https://chatgpt.com/share/e/f2f250d5-0f37-40c0-bd45-27cb6f92737b)
+- [Chat example](https://chatgpt.com/share/67c85106-eb38-800b-9339-0ce3b04616f0)
 
 # Use Case 5c: Transactional Data Analysis
 - [Data](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/Ecommerce-Transactions.csv)
