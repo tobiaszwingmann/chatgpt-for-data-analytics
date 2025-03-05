@@ -9,7 +9,7 @@ The whole day will cover this case study: [Power Pedal Case Study Description](h
 # Use Case 1: Problem Statements
 - [Smart Problem GPT](https://chat.openai.com/g/g-tHZOlUaYD-smart-problem-gpt)
 - [GPT Config](https://github.com/tobiaszwingmann/chatgpt-for-data-analytics/blob/main/Day%201/GPT%20Configs/smart-problem-gpt.md)
-- [Chat example](https://chatgpt.com/share/f49d46e2-00b7-4f01-9b5f-c2ae2d306dce)
+- [Chat example](https://chatgpt.com/share/67c857f3-5b60-800b-8b10-4acd43c91ae6)
 
 # Use Case 2: Issue Trees
 - [Issue Tree GPT](https://chat.openai.com/g/g-qaKT45vrL-issue-tree-gpt)
